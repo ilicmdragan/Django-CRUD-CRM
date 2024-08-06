@@ -23,6 +23,7 @@ Once the application is running, you can perform CRUD operations on items. Here'
 ## Technologies Used
 - Python
 - Django
+- HTML
 
 ## Link to the Tutorial
 The tutorial I used for creating this project can be found on YouTube:
